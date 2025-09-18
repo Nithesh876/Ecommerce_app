@@ -12,13 +12,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/repo-name.git"
+    "url": "git+https://github.com/Nithesh876/Ecommerce_app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/username/repo-name/issues"
+    "url": "https://github.com/Nithesh876/Ecommerce_app.git/issues"
   },
-  "homepage": "https://github.com/username/repo-name#readme"
+  "homepage": "https://github.com/Nithesh876/Ecommerce_app.git#readme"
 }
